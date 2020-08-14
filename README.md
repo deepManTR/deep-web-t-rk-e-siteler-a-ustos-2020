@@ -20,7 +20,9 @@ VV
 http://j5gkwuydudq7odjz2d6dgetnfz6wgpkhr65z5uga7srzo7eezsdfepid.onion
 ||
 VV
-** alışveriş yapabileceğiniz bitcoin temelli market sitesi **
+** alışveriş yapabileceğiniz bitcoin temelli market sitesi olarak geçer.
+Bazıları alişveriş yaptığını iddia eder bazıları da dolandırıldığını iddia eder.
+**
 (HYDRA MARKET)
 
 
